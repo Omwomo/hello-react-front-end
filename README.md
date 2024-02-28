@@ -49,6 +49,9 @@
 
 The back-end repo is available [here](https://github.com/omwomo/hello-rails-back-end)
 
+## Pull-Request-Link
+The pull request with changes is available [here](https://github.com/Omwomo/hello-react-front-end/pull/1)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
