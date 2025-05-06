@@ -27,7 +27,7 @@ const Greeting = () => {
 
   return (
     <div>
-      <h1>Random Greeting:</h1>
+      <h1>Random Greetings:</h1>
       <p>{greeting}</p>
     </div>
   );
